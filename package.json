@@ -1,0 +1,14 @@
+{
+  "name": "landingpage",
+  "version": "1.0.0",
+  "description": "landingpage",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "nodemailer": "^4.4.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}

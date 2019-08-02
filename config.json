@@ -1,0 +1,8 @@
+{
+    "smtpMailHost": "smtp.gmail.com",
+    "smtpMailPort": 465,
+    "smtpMailSecure": true,
+    "senderEmail": "contact.tomnium@gmail.com",
+    "senderPasword": "kwasc22MM",
+    "recieverEmail": "contact.tomnium@gmail.com"
+}
